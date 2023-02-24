@@ -127,7 +127,7 @@ export const faqs = [
 export const testimonials = [
   {
     id: 1,
-    name: "Diana Ayi",
+    name: "xyz",
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
     job: "Student",
@@ -135,7 +135,7 @@ export const testimonials = [
   },
   {
     id: 2,
-    name: "Daniel Vinyo",
+    name: "xyz",
     quote:
       "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
     job: "Software Egineer",
@@ -143,7 +143,7 @@ export const testimonials = [
   },
   {
     id: 3,
-    name: "Edem Quist",
+    name: "xyz",
     quote:
       "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
     job: "University Lecturer",
@@ -151,7 +151,7 @@ export const testimonials = [
   },
   {
     id: 4,
-    name: "Grace Lavoe",
+    name: "xyz",
     quote:
       "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
     job: "Talking Parrot",
@@ -159,7 +159,7 @@ export const testimonials = [
   },
   {
     id: 5,
-    name: "Nana Yaa Dankwa",
+    name: "xyz",
     quote:
       "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
     job: "Pharmacist",
@@ -244,7 +244,7 @@ export const trainers = [
   {
     id: 1,
     image: Trainer1,
-    name: "John Doe",
+    name: "xyz",
     job: "Aerobic Trainer",
     socials: [
       "https://instagram.com/",
@@ -256,7 +256,7 @@ export const trainers = [
   {
     id: 2,
     image: Trainer2,
-    name: "Daniel vinyo",
+    name: "xyz",
     job: "Speed Trainer",
     socials: [
       "https://instagram.com/",
@@ -268,7 +268,7 @@ export const trainers = [
   {
     id: 3,
     image: Trainer3,
-    name: "Edem Quist",
+    name: "xyz",
     job: "Flexibility Trainer",
     socials: [
       "https://instagram.com/",
@@ -280,7 +280,7 @@ export const trainers = [
   {
     id: 4,
     image: Trainer4,
-    name: "Shatta Wale",
+    name: "xyz",
     job: "Body Composition Trainer",
     socials: [
       "https://instagram.com/",
@@ -292,7 +292,7 @@ export const trainers = [
   {
     id: 5,
     image: Trainer5,
-    name: "Diana Ayi",
+    name: "xyz",
     job: "Circuit Trainer",
     socials: [
       "https://instagram.com/",
@@ -304,7 +304,7 @@ export const trainers = [
   {
     id: 6,
     image: Trainer6,
-    name: "Wayne Carter",
+    name: "xyz",
     job: "Physical Intelligence Trainer",
     socials: [
       "https://instagram.com/",
